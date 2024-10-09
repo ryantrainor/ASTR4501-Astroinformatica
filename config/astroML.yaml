@@ -1,4 +1,4 @@
-name: astroML2
+name: astroML
 channels:
   - conda-forge
 dependencies:
@@ -13,3 +13,4 @@ dependencies:
   - geopandas
   - fiona
   - ipykernel
+  - jupyter
