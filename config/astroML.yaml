@@ -1,0 +1,15 @@
+name: astroML2
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - matplotlib
+  - astropy
+  - astroml
+  - pandas
+  - pysal
+  - geopandas
+  - fiona
+  - ipykernel
